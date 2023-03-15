@@ -1,0 +1,166 @@
+{
+  "Products": {
+    "PD001": {
+      "amount": 0,
+      "category": "CT001",
+      "description": "Ingredients include: 1 slice of beef 200g, tomato, lettuce and 1 slice of cheese",
+      "id": "PD001",
+      "name": "Cheese beef burger",
+      "price_normal": 2,
+      "price_sale": 2
+    },
+    "PD002": {
+      "amount": 0,
+      "category": "CT001",
+      "description": "Ingredients include: 1 slice of beef 200g, tomato, lettuce, bacon 100g and 1 slice of cheese",
+      "id": "PD002",
+      "name": "Beef and bacon burger",
+      "price_normal": 3,
+      "price_sale": 3
+    },
+    "PD003": {
+      "amount": 0,
+      "category": "CT001",
+      "description": "Ingredients include: 2 slice of beef 200g, tomato, lettuce and 1 slice of cheese",
+      "id": "PD003",
+      "name": "Burger 2 beefs",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD004": {
+      "amount": 0,
+      "category": "CT002",
+      "description": "1 piece of fried chicken thigh",
+      "id": "PD004",
+      "name": "Fried chicken thighs",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD005": {
+      "amount": 0,
+      "category": "CT002",
+      "description": "1 piece of fried chicken wings",
+      "id": "PD005",
+      "name": "Fried chicken wings",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD006": {
+      "amount": 0,
+      "category": "CT002",
+      "description": "1 piece of grilled chicken wings",
+      "id": "PD006",
+      "name": "BBQ Chicken",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD007": {
+      "amount": 0,
+      "category": "CT003",
+      "description": "100g FRIES",
+      "id": "PD007",
+      "name": "Fries (size S)",
+      "price_normal": 2,
+      "price_sale": 2
+    },
+    "PD008": {
+      "amount": 0,
+      "category": "CT003",
+      "description": "200g FRIES",
+      "id": "PD008",
+      "name": "Fries (size M)",
+      "price_normal": 3,
+      "price_sale": 3
+    },
+    "PD009": {
+      "amount": 0,
+      "category": "CT003",
+      "description": "300g FRIES",
+      "id": "PD009",
+      "name": "Fries (size L)",
+      "price_normal": 4,
+      "price_sale": 4
+    },
+    "PD010": {
+      "amount": 0,
+      "category": "CT004",
+      "description": "Hot dog is an American fast food . A hot dog bun with sausage , usually with the addition of mustard , ketchup , onions , mayonnaise , and seasonings with or without sauerkraut. Size s",
+      "id": "PD010",
+      "name": "Hotdog 1",
+      "price_normal": 1,
+      "price_sale": 1
+    },
+    "PD011": {
+      "amount": 0,
+      "category": "CT004",
+      "description": "Hot dog is an American fast food . A hot dog bun with sausage , usually with the addition of mustard , ketchup , onions , mayonnaise , and seasonings with or without sauerkraut. Size M",
+      "id": "PD011",
+      "name": "Hotdog 2",
+      "price_normal": 2,
+      "price_sale": 2
+    },
+    "PD012": {
+      "amount": 0,
+      "category": "CT004",
+      "description": "Hot dog is an American fast food . A hot dog bun with sausage , usually with the addition of mustard , ketchup , onions , mayonnaise , and seasonings with or without sauerkraut. Size L.",
+      "id": "PD012",
+      "name": "Hotdog 3",
+      "price_normal": 3,
+      "price_sale": 3
+    },
+    "PD013": {
+      "amount": 0,
+      "category": "CT005",
+      "description": "Ingredients: Sausages, ham, onion, tomato sauce, cheese.",
+      "id": "PD013",
+      "name": "Meet lovers pizza",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD014": {
+      "amount": 0,
+      "category": "CT005",
+      "description": "Ingredients: Salami Sausage, Onion, Tomato Sauce, Cheese.",
+      "id": "PD014",
+      "name": "Salami pizza",
+      "price_normal": 6,
+      "price_sale": 5
+    },
+    "PD015": {
+      "amount": 0,
+      "category": "CT005",
+      "description": "Ingredients: Mushroom, corn, pineapple, green pepper, onion, tomato, ketchup, cheese.",
+      "id": "PD015",
+      "name": "Veggie pizza",
+      "price_normal": 4,
+      "price_sale": 4
+    },
+    "PD016": {
+      "amount": 0,
+      "category": "CT006",
+      "description": "Classic milk tea is the original boba tea flavor that started it all.  It consists of black tea, milk, brown sugar, and of course the black tapioca balls we all love so much!",
+      "id": "PD016",
+      "name": "Classic milk tea",
+      "price_normal": 3,
+      "price_sale": 3
+    },
+    "PD017": {
+      "amount": 0,
+      "category": "CT006",
+      "description": "Matcha milk tea is a delightful beverage that we can't get enough of - it's sweet, rich, and earthy! Not to mention the tiny yet moreish boba pearls.",
+      "id": "PD017",
+      "name": "Macha milk tea",
+      "price_normal": 5,
+      "price_sale": 5
+    },
+    "PD018": {
+      "amount": 0,
+      "category": "CT006",
+      "description": "Tapioca flour 200 gram, Cocoa powder 7 gram, Rice flour 40 gram, Fresh milk 600 ml, Brown sugar 200 gram",
+      "id": "PD018",
+      "name": "Black milk",
+      "price_normal": 7,
+      "price_sale": 7
+    }
+  }
+}
